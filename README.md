@@ -1,6 +1,6 @@
 # Assembly Language Courseware: 
 
-## 1. Introduction to Assembly Language
+## 1. Introduction
    - What is assembly language?
    - Why learn assembly?
    - Brief history of assembly languages
