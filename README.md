@@ -1,4 +1,4 @@
-# Assembly Language Courseware: Adding Two Numbers in NASM
+# Assembly Language Courseware: 
 
 ## 1. Introduction to Assembly Language
    - What is assembly language?
