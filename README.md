@@ -133,6 +133,11 @@ main:
 
 ```
 
+```
+Save the code to a file, e.g., max_numbers.asm
+nasm -f elf64 max_numbers.asm
+gcc max_numbers.o -o max_numbers -no-pie
+```
 
 #### Reference:
 https://www.nasm.us/xdoc/2.15.05/html/nasmdoc0.html
