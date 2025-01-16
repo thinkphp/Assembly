@@ -1,4 +1,4 @@
-# Multiplu a * b
+# Multiply a * b
 
 ###  nasm -f elf64 add.asm -o adunare.o
 ### gcc -no-pie adunare.o -o adunare
